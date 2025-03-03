@@ -3,13 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background-color: black;
-            color: lightblue;
-            font-family: monospace;
-            text-align: center;
-        }
         pre {
             font-size: 12px;
             line-height: 1.2;
