@@ -3,11 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        pre {
-            font-size: 12px;
-            line-height: 1.2;
-        }
-    </style>
+            </style>
 </head>
 <body>
     <h2>ॐ (Om)</h2>
